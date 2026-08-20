@@ -8,7 +8,7 @@ public class Castor {
     }
     
     public void tocarGuitarra(){
-        
+        System.out.println("Tocando la guitarra");
     }
     
     public void nadar(){
