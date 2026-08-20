@@ -8,7 +8,8 @@ public class Castor {
     }
     
     public void tocarGuitarra(){
-        System.out.println("Tocando la guitarra");
+        int random = (int) (Math.random() * 6 + 1);
+        System.out.println("toca cuerda " + random);
     }
     
     public void nadar(){
